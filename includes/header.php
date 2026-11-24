@@ -72,7 +72,7 @@ $currentPage = $currentPage ?? 'dashboard';
         </nav>
 
         <div class="sidebar-footer">
-            <small>Libreria Feliz v1.0</small>
+            <small>Libreria Feliz v1.5</small>
         </div>
 
     </aside>
