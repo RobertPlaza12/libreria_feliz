@@ -81,31 +81,6 @@ require_once __DIR__ . '/includes/header.php';
 
     </div>
 
-    <div class="col-12 col-md-6 col-xl-4">
-
-        <div class="dashboard-card">
-
-            <div class="dashboard-card-icon icon-orange">
-                <i class="bi bi-database"></i>
-            </div>
-
-            <h5 class="fw-bold">
-                Base de datos
-            </h5>
-
-            <p class="text-muted">
-                Libreria Feliz utiliza una base de datos
-                MySQL para almacenar la información.
-            </p>
-
-            <span class="badge text-bg-secondary">
-                Sistema en desarrollo
-            </span>
-
-        </div>
-
-    </div>
-
 </div>
 
 <div class="card border-0 shadow-sm">

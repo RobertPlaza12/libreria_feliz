@@ -35,7 +35,7 @@ $currentPage = $currentPage ?? 'dashboard';
     <aside class="sidebar">
 
         <a href="/index.php" class="sidebar-brand">
-            <i class="bi bi-book-half"></i>
+            <i class="bi bi-emoji-laughing-fill"></i>
             <span>Libreria Feliz</span>
         </a>
 
@@ -72,7 +72,7 @@ $currentPage = $currentPage ?? 'dashboard';
         </nav>
 
         <div class="sidebar-footer">
-            <small>Libreria Feliz v1.5</small>
+            <small>Libreria Feliz v1.5.9</small>
         </div>
 
     </aside>
@@ -86,10 +86,6 @@ $currentPage = $currentPage ?? 'dashboard';
                 <small class="text-muted">
                     Inventario y distribución de libros
                 </small>
-            </div>
-
-            <div class="topbar-icon">
-                <i class="bi bi-person-circle"></i>
             </div>
 
         </header>

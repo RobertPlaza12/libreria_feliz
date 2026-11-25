@@ -108,7 +108,6 @@ class Tienda
         return $stmt->execute();
     }
 
-
     // da los títulos asociados a una tienda
     public function getTitulos($id_tienda)
     {
